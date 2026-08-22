@@ -44,7 +44,7 @@ These projects gave me initial exposure to Machine Learning and its tooling. I'm
 
 ## 📫 Connect With Me
 
-* 💼 [LinkedIn](YOUR_LINKEDIN_URL)
+* 💼 [LinkedIn](https://www.linkedin.com/in/sahib-singh-7a48b2384/)
 * 🐙 [GitHub](https://github.com/Sahib45-here)
 
 ---
